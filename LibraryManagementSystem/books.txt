@@ -1,0 +1,3 @@
+101|Java Programming|James Gosling|Programming|5|5
+102|Python Basics|Guido van Rossum|Programming|3|3
+103|Database Management|C. J. Date|Database|4|4
