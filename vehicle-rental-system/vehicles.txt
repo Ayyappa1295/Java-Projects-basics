@@ -1,0 +1,5 @@
+1001|Honda|City|Car|AP03AB1234|2000.0|true
+1002|Hyundai|Creta|Car|AP03CD5678|2500.0|true
+1003|Royal Enfield|Classic 350|Bike|AP03EF9012|800.0|true
+1004|Toyota|Innova|Van|AP03GH3456|3500.0|true
+1005|Maruti|Swift|Car|AP03IJ7890|1500.0|false
